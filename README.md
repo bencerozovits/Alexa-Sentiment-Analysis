@@ -1,5 +1,5 @@
 # Alexa-Sentiment-Analysis
-This project uses TensorFlow, a popular deep learning framework, to perform sentiment analysis on Amazon Alexa product reviews. The dataset used for this analysis contains reviews and ratings for the Amazon Alexa, and the goal is to classify reviews as either positive or negative based on the feedback provided by users.
+This project uses TensorFlow, a popular deep learning framework, to perform sentiment analysis on Amazon Alexa product reviews. The dataset used for this analysis contains reviews and ratings for the Amazon Alexa product and it's different variations, the goal was to classify reviews as either positive or negative based on the feedback provided by users.
 
 Technologies/Frameworks Used:
 - Python
