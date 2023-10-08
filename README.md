@@ -6,5 +6,4 @@ Technologies/Frameworks Used:
 - TensorFlow and Keras for Deep Learning
 - Pandas, Seaborn, and Matplotlib for data analysis and visualization.
 
-Project Goal:
 The primary aim of this project was to get a more hands-on experience in the fields of deep learning and machine learning. By applying these techniques to real-world data, i was able to learn about the general workflows that are involved in the whole machine/deep learning process while improving my skills in two very popular frameworks, TensorFlow and Keras.
